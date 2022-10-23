@@ -7,7 +7,6 @@ This is a dashboard that connects to MongoDB and displays that information. For 
     <li><a href="#writing-programs-that-are-maintainable-readable-and-adaptable">Writing Programs that are Maintainable, Readable, and Adaptable</a></li> 
     <li><a href="#my-approach">My Approach</a></li> 
     <li><a href="#what-do-computer-scientists-do">What Do Computer Scientists Do?</a></li> 
-    <li><a href="#ethical-responsibilities">Ethical Responsibilities</a></li> 
   </ol> 
 </details> 
 
@@ -17,5 +16,5 @@ The first part of this project was to create a separate Python file that gave me
 ### My Approach
 My approach to this problem was to get the minimum viable product working, and then improving the interface from there. In this case, the first step was to make sure the dashboard connected to MongoDB and displayed the information correctly. Once that step was complete, I formatted the data table to make it easier to read and navigate for the user. Finally, I made sure that the pie chart and map updated correctly based on the information that was displayed in the data table. In future projects involving databases, my approach would be similar to this. The first step is to get the data into the dashboard, the next steps are about how can I make this easier for a user.
 
-### >What Do Computer Scientists Do?
+### What Do Computer Scientists Do?
 Computer scientists use technology to solve problems in innovative ways. Sometimes this is as simple as developing a web application, other times it is creating revolutionary artificial intelligence systems. My work on this project helps a company like Grazioso Salvare navigate a very large amount of data in a way that a non-programmer is able to intuitively use. This is one of my favorite aspects of computer science.
